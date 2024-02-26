@@ -2,6 +2,10 @@
 
 My name is Matt and I'm a Data Engineer specializing in Healthcare and Finacial data. I build autonomous, fault-tolerate platforms driven by SQL, Spark, and Python with a focus on Big Data.
 
+- 🔭 I’m currently working on a dynamic Data Governance platform to support my compaines migration from on-prem to cloud.
+- 🌱 I recently built a greenfield Datalake for a top-15 US credit union using Azure and Databricks.
+- 👯 I’m looking to collaborate on efficent big data platforms that focus on operational decision support and finding solutions to pressing business problems.
+
 <!--
 **duffyw99/duffyw99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
