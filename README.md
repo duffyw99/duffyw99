@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Matt and I'm a Data Engineer specializing in Healthcare and Finacial data. I build autonomous, fault-tolerate platforms driven by SQL, Spark, and Python with a focus on Big Data.
+
 <!--
 **duffyw99/duffyw99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
